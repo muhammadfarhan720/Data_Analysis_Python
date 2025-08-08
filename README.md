@@ -37,7 +37,25 @@ _Analysis of 79 features across 2,930 properties:_
    
 
 
-[Public Stats API Json Analysis](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
+
+[**API Data Processing Stack**](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
+
+
+_Hands-on experience with:_
+
+• **API Integration**:  
+  `requests.get()` | `response.json()` | Nested JSON traversal  
+• **Data Transformation**:  
+  `datetime.fromisoformat()` | List comprehensions | `lambda` functions  
+• **Analysis**:  
+  Top-N filtering (`sorted()[0:N]`) | Set operations (`set()`) |  
+  Time-series binning (day/night) | Relative scaling  
+• **Visualization**:  
+  `matplotlib` (`bar`, `plot`, `text`) | Annotated charts |  
+  Multi-line plots | Large-format figures (`figsize`)  
+• **Specialized Parsing**:  
+  Wind speed extraction (`split()` + `isdigit()`) |  
+  API pagination patterns  
 
 
 # Python Data Structure & Object-Oriented Programming Projects
