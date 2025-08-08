@@ -22,17 +22,18 @@ Each project is a self-contained folder with source code and test cases.
 
 ## Projects
 1. **Leap Year & Roman Numeral Validator**  
-   Algorithms for calendar leap year detection and Roman numeral validation.  
+   Algorithms for calendar leap year detection and Roman numeral validation.
+   
    _Skills:_ Conditionals, loops, string processing.
 
-2. **Command-Line Phonebook Database**  
+3. **Command-Line Phonebook Database**  
    Interactive dictionary-based contact manager.  
    _Skills:_ Dictionaries, CRUD operations, input validation.
 
-3. **DNA Sequence Experiment Data Analysis**  
+4. **DNA Sequence Experiment Data Analysis**  
    CSV data loader and statistical analysis toolkit.  
    _Skills:_ File I/O, lists, dictionaries, functions.
 
-4. **Rational Number Class**  
+5. **Rational Number Class**  
    Object-oriented implementation of rational number arithmetic.  
    _Skills:_ OOP, classes, method design.
