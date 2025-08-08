@@ -15,29 +15,27 @@ This repo contains some of the most critical projects I completed for mastering 
 [Public Stats API Json Analysis](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
 
 
-# Python_Data_Structure_&_Object_Oriented_Programming_Projects
+# Python Data Structure & Object-Oriented Programming Projects
 
-A collection of Python projects demonstrating skills in data structures, algorithms, and object-oriented programming.  
-Each project is a self-contained folder with source code and test cases.
+A curated collection of Python projects demonstrating expertise in **data structures**, **algorithms**, and **object-oriented programming**.  
+Each project is a self-contained folder including source code and test cases.
+
+---
 
 ## Projects
-1. [**Leap Year & Roman Numeral Validator**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/Numerical_Algorithms)
- 
-   Algorithms for calendar leap year detection and Roman numeral validation.
-   
-   _Skills:_ Conditionals, loops, string processing.
 
-3. [**Command-Line Phonebook Database**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/CLI_Dictionary)
+1. [**Leap Year & Roman Numeral Validator**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/Numerical_Algorithms)  
+   Algorithms for calendar leap year detection and Roman numeral validation.  
+   **Skills:** `Conditionals`, `Loops`, `String Processing`
 
+2. [**Command-Line Phonebook Database**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/CLI_Dictionary)  
    Interactive dictionary-based contact manager.  
-   _Skills:_ Dictionaries, CRUD operations, input validation.
+   **Skills:** `Dictionaries`, `CRUD Operations`, `Input Validation`
 
-4. [**DNA Sequence Experiment Data Analysis**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/DA_DNA)
-
+3. [**DNA Sequence Experiment Data Analysis**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/DA_DNA)  
    CSV data loader and statistical analysis toolkit.  
-   _Skills:_ File I/O, lists, dictionaries, functions.
+   **Skills:** `File I/O`, `Lists`, `Dictionaries`, `Functions`
 
-5. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)
-
+4. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)  
    Object-oriented implementation of rational number arithmetic.  
-   _Skills:_ OOP, classes, method design.
+   **Skills:** `OOP`, `Classes`, `Method Design`
