@@ -2,7 +2,7 @@
 This repo contains some of the most critical projects I completed for mastering data cleaning, pre-processing and EDA analysis using python tools
 
 
-[Data Cleaning using Pandas Vector tools](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)
+[Faster Data Cleaning using Pandas with Vector format](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)
 
 
 
