@@ -3,14 +3,16 @@ This repo contains some of the most critical projects I completed for mastering 
 
 
 [**Vectorized Data Cleaning Engine**](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)  
+
 _Optimized for large datasets using Pandas:_  
-• `df.loc[]` + `median()` for outlier replacement  
-• Regex patterns (`r'(\d+\.\d+|\d+)'`) for numeric extraction  
-• `astype()` for dtype enforcement (int64/float64)  
-• Custom unit converters (F°→C°, hours→minutes)  
-• Categorical mapping via `replace()`  
-• Storage standardization (1TB = 1000GB)  
-• Statistical validation with `mean()`/`std()`/`median()`
+
+   • `df.loc[]` + `median()` for outlier replacement  
+   • Regex patterns (`r'(\d+\.\d+|\d+)'`) for numeric extraction  
+   • `astype()` for dtype enforcement (int64/float64)  
+   • Custom unit converters (F°→C°, hours→minutes)  
+   • Categorical mapping via `replace()`  
+   • Storage standardization (1TB = 1000GB)  
+   • Statistical validation with `mean()`/`std()`/`median()`
 
 
 
