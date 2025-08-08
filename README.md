@@ -2,7 +2,15 @@
 This repo contains some of the most critical projects I completed for mastering data cleaning, pre-processing and EDA analysis using python tools. Click the following hyperlinks to get the problems and the solution code provided in the Colab notebooks pages : 
 
 
-[Faster Data Cleaning using Pandas with Vector format](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)
+[**Vectorized Data Cleaning Engine**](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)  
+_Optimized for large datasets using Pandas:_  
+• `df.loc[]` + `median()` for outlier replacement  
+• Regex patterns (`r'(\d+\.\d+|\d+)'`) for numeric extraction  
+• `astype()` for dtype enforcement (int64/float64)  
+• Custom unit converters (F°→C°, hours→minutes)  
+• Categorical mapping via `replace()`  
+• Storage standardization (1TB = 1000GB)  
+• Statistical validation with `mean()`/`std()`/`median()`
 
 
 
