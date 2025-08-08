@@ -21,7 +21,8 @@ A collection of Python projects demonstrating skills in data structures, algorit
 Each project is a self-contained folder with source code and test cases.
 
 ## Projects
-1. **Leap Year & Roman Numeral Validator**  
+1. [**Leap Year & Roman Numeral Validator**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/Numerical_Algorithms)
+ 
    Algorithms for calendar leap year detection and Roman numeral validation.
    
    _Skills:_ Conditionals, loops, string processing.
