@@ -37,6 +37,7 @@ Each project is a self-contained folder with source code and test cases.
    CSV data loader and statistical analysis toolkit.  
    _Skills:_ File I/O, lists, dictionaries, functions.
 
-5. **Rational Number Class**  
+5. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)
+
    Object-oriented implementation of rational number arithmetic.  
    _Skills:_ OOP, classes, method design.
