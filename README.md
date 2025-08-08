@@ -1,7 +1,7 @@
 # 📊 Data Analysis with Python
 
 A collection of my most critical projects for mastering **data cleaning**, **pre-processing**, and **EDA** using Python tools.  
-Click the <span style="color:blue">blue text</span> below to view problems and solution code in **Google Colab**.
+Click the <span style="color:blue">blue text hyperlinks</span> below to view problems and solution code in **Google Colab**.
 
 ---
 
