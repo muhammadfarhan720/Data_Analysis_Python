@@ -17,9 +17,24 @@ _Optimized for large datasets using Pandas:_
 
 
 
-[EDA Analysis for Real Estate Market Price](https://colab.research.google.com/drive/1mTa3N2GlIrzPwT2Jyo6yukMLcc6nNjVo?usp=sharing)
+[**Real Estate Market EDA**](https://colab.research.google.com/drive/1mTa3N2GlIrzPwT2Jyo6yukMLcc6nNjVo?usp=sharing)
+  
 
+_Analysis of 79 features across 2,930 properties:_  
 
+   • **Data Cleaning**: `groupby`+`transform` imputation, sparse feature removal  
+   • **Feature Engineering**: Synthesized `TotalSF` (TotalBsmtSF + 1stFlrSF + 2ndFlrSF)  
+   • **Correlation Analysis**: Identified 11 key pricing drivers via `corr()` >0.5  
+   • **Advanced Visualizations**:  
+     - `sns.lmplot`/`jointplot` for bivariate relationships  
+     - Neighborhood pricing clusters via `stripplot`  
+     - Multivariate bubble plots (`TotalSF`×`Price`×`LivingArea`)  
+   • **Statistical Transformation**: `np.log1p` for target normalization  
+   • **Insights**:  
+     - OverallQual ≈ Strongest pricing correlate  
+     - Post-recession sales volume drop (2007-2009)  
+     - GarageArea/LivingArea > Temporal effects
+   
 
 
 [Public Stats API Json Analysis](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
