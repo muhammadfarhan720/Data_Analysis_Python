@@ -26,7 +26,8 @@ Each project is a self-contained folder with source code and test cases.
    
    _Skills:_ Conditionals, loops, string processing.
 
-3. **Command-Line Phonebook Database**  
+3. [**Command-Line Phonebook Database**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/CLI_Dictionary)
+
    Interactive dictionary-based contact manager.  
    _Skills:_ Dictionaries, CRUD operations, input validation.
 
