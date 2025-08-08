@@ -1,5 +1,5 @@
 # Data_Analysis_Python
-This repo contains some of the most critical projects I completed for mastering data cleaning, pre-processing and EDA analysis using python tools
+This repo contains some of the most critical projects I completed for mastering data cleaning, pre-processing and EDA analysis using python tools. Click the following hyperlinks to get the problems and the solution code provided in the Colab notebooks pages : 
 
 
 [Faster Data Cleaning using Pandas with Vector format](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)
