@@ -15,5 +15,24 @@ This repo contains some of the most critical projects I completed for mastering 
 [Public Stats API Json Analysis](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
 
 
-# Python_Data_Structure_&_Object_Oriented_Programming
+# Python_Data_Structure_&_Object_Oriented_Programming_Projects
 
+A collection of Python projects demonstrating skills in data structures, algorithms, and object-oriented programming.  
+Each project is a self-contained folder with source code and test cases.
+
+## Projects
+1. **Leap Year & Roman Numeral Validator**  
+   Algorithms for calendar leap year detection and Roman numeral validation.  
+   _Skills:_ Conditionals, loops, string processing.
+
+2. **Command-Line Phonebook Database**  
+   Interactive dictionary-based contact manager.  
+   _Skills:_ Dictionaries, CRUD operations, input validation.
+
+3. **DNA Sequence Experiment Data Analysis**  
+   CSV data loader and statistical analysis toolkit.  
+   _Skills:_ File I/O, lists, dictionaries, functions.
+
+4. **Rational Number Class**  
+   Object-oriented implementation of rational number arithmetic.  
+   _Skills:_ OOP, classes, method design.
