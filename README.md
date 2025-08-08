@@ -17,24 +17,28 @@ _Optimized for large datasets using Pandas:_
 
 
 
-[**Real Estate Market EDA**](https://colab.research.google.com/drive/1mTa3N2GlIrzPwT2Jyo6yukMLcc6nNjVo?usp=sharing)
-  
+[**Real Estate Market EDA Analysis**](https://colab.research.google.com/drive/1mTa3N2GlIrzPwT2Jyo6yukMLcc6nNjVo?usp=sharing)
 
-_Analysis of 79 features across 2,930 properties:_  
+_Production-grade data analysis workflow:_
 
-   • **Data Cleaning**: `groupby`+`transform` imputation, sparse feature removal  
-   • **Feature Engineering**: Synthesized `TotalSF` (TotalBsmtSF + 1stFlrSF + 2ndFlrSF)  
-   • **Correlation Analysis**: Identified 11 key pricing drivers via `corr()` >0.5  
-   • **Advanced Visualizations**:  
-     - `sns.lmplot`/`jointplot` for bivariate relationships  
-     - Neighborhood pricing clusters via `stripplot`  
-     - Multivariate bubble plots (`TotalSF`×`Price`×`LivingArea`)  
-   • **Statistical Transformation**: `np.log1p` for target normalization  
-   • **Insights**:  
-     - OverallQual ≈ Strongest pricing correlate  
-     - Post-recession sales volume drop (2007-2009)  
-     - GarageArea/LivingArea > Temporal effects
-   
+   • **Data Handling**:  
+     `pd.read_csv()` | `df.drop()` | `pd.concat()` | `groupby().transform()`  
+   • **Cleaning**:  
+     `fillna()` strategies | Sparse feature removal | Data type conversion (`astype()`)  
+   • **Feature Engineering**:  
+     `TotalSF = TotalBsmtSF + 1stFlrSF + 2ndFlrSF`  
+   • **Correlation Analysis**:  
+     `df.corr()` | Custom threshold filtering | `sns.heatmap()`  
+   • **Visualization**:  
+     - Distribution: `sns.distplot()` + `scipy.stats.probplot()`  
+     - Bivariate: `sns.lmplot()`, `sns.jointplot()`, `sns.stripplot()`  
+     - Multivariate: Bubble plots (`plt.scatter()`), Faceted plots (`sns.lmplot(col=)`)  
+   • **Statistical Transformation**:  
+     Log normalization (`np.log1p()`)  
+   • **Insight Generation**:  
+     - Identified 11 key pricing drivers  
+     - Detected temporal vs. structural impact patterns  
+      
 
 
 
