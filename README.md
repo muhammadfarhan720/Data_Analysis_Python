@@ -32,7 +32,8 @@ Each project is a self-contained folder with source code and test cases.
    Interactive dictionary-based contact manager.  
    _Skills:_ Dictionaries, CRUD operations, input validation.
 
-4. **DNA Sequence Experiment Data Analysis**  
+4. [**DNA Sequence Experiment Data Analysis**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/DA_DNA)
+
    CSV data loader and statistical analysis toolkit.  
    _Skills:_ File I/O, lists, dictionaries, functions.
 
