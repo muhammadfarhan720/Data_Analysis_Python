@@ -10,3 +10,6 @@ This repo contains some of the most critical problem solutions for data cleaning
 [EDA Analysis for Real Estate Market Price](https://colab.research.google.com/drive/1mTa3N2GlIrzPwT2Jyo6yukMLcc6nNjVo?usp=sharing)
 
 
+
+
+[Public Stats API Json Analysis](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
