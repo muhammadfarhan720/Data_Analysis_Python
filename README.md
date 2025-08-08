@@ -19,7 +19,7 @@ _Optimized for large datasets using Pandas:_
 
 [**Real Estate Market EDA Analysis**](https://colab.research.google.com/drive/1mTa3N2GlIrzPwT2Jyo6yukMLcc6nNjVo?usp=sharing)
 
-_Production-grade data analysis workflow:_
+Hands on experience on following : 
 
    • **Data Handling**:  
      `pd.read_csv()` | `df.drop()` | `pd.concat()` | `groupby().transform()`  
