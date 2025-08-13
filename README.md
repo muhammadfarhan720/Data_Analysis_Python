@@ -69,7 +69,7 @@ Click the **blue text hyperlinks** below to view problems and solution code in *
 
 # Python Data Structure & Object-Oriented Programming Projects
 
-A curated collection of Python projects demonstrating expertise in **data structures**, **algorithms**, and **OOP**.  
+A curated collection of my Python projects demonstrating experience in **data structures**, **algorithms**, and **OOP**.  
 Each project includes self-contained source code and test cases.
 
 ---
