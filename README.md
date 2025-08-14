@@ -66,13 +66,8 @@ Click the **blue text hyperlinks** below to view problems and solution code in *
   Wind speed extraction (`split()` + `isdigit()`) | API pagination patterns  
 
 ---
-<style>
-  .laptop-code-icon {
-    color: green; /* Makes the icon green */
-  }
-</style>
 
-<h1><i class="fas fa-laptop-code laptop-code-icon"></i> Python Data Structure & Object-Oriented Programming Projects</h1>
+# 💻 Python Data Structure & Object-Oriented Programming Projects
 
 A curated collection of my Python projects from **Computation for Data Sciences** course demonstrating experience in **data structures**, **algorithms**, and **OOP**.  
 Each project includes self-contained source code and test cases.
