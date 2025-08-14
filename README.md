@@ -93,6 +93,6 @@ Each project includes self-contained source code and test cases.
 
 4. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)  
    **Skills:** `OOP`, `Classes`, `Method Design`  
-   Object-oriented implementation of rational number arithmetic.
+   Object-oriented implementation and unit-method testing of a rational number arithmetic calculator.
 
 ---
