@@ -30,18 +30,25 @@ Click the **blue text hyperlinks** below to view problems and solution code in *
 
 - **Data Handling:**  
   `pd.read_csv()` | `df.drop()` | `pd.concat()` | `groupby().transform()`  
+
 - **Cleaning:**  
   `fillna()` strategies | Sparse feature removal | Data type conversion (`astype()`)  
+
 - **Feature Engineering:**  
-  `TotalSF = TotalBsmtSF + 1stFlrSF + 2ndFlrSF`  
+  Derived new features (e.g., `TotalSF = Total Bsmt SF + 1st Flr SF + 2nd Flr SF`)  
+  Guided by **correlation analysis** (`df.corr()`, `sns.heatmap()`) and **exploratory plots** (`sns.lmplot`, `sns.jointplot`)  
+  Libraries/Tools: `pandas`, `numpy`, `seaborn`, `matplotlib`  
+
 - **Correlation Analysis:**  
   `df.corr()` | Custom threshold filtering | `sns.heatmap()`  
 - **Visualization:**  
   - Distribution: `sns.distplot()` + `scipy.stats.probplot()`  
   - Bivariate: `sns.lmplot()`, `sns.jointplot()`, `sns.stripplot()`  
   - Multivariate: Bubble plots (`plt.scatter()`), Faceted plots (`sns.lmplot(col=)`)  
+
 - **Statistical Transformation:**  
   Log normalization (`np.log1p()`)  
+
 - **Insight Generation:**  
   - Identified 11 key pricing drivers  
   - Detected temporal vs. structural impact patterns  
