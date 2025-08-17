@@ -55,7 +55,7 @@ Click the **blue text hyperlinks** below to view problems and solution code in *
 
 ---
 
-## 3️⃣ [API Data Processing Stack](https://colab.research.google.com/drive/1WbvAvbjDIbOJUCdquefBw8aTsMGWEf2q?usp=sharing)
+## 3️⃣ [API Data Processing Stack](https://github.com/muhammadfarhan720/OOP_Structure_and_Data_Analysis_Python/blob/main/API_link_analysis.ipynb)
 
 **Core Skills:** `API Integration`, `JSON Parsing`, `Data Transformation`, `Visualization`
 
