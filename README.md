@@ -65,7 +65,6 @@ Click the **blue text hyperlinks** below to view problems and solution code.
 - **PokeAPI:** Aggregated data from **1017 unique Pokémon** across all games, comparing regional dexes (up to **80%** overlap with the National Dex) and revealing how new generations contributed **10–18%** additional unique Pokémon per release.
 - **Nobel Prize API:** Analyzed **70+ years** of Nobel Prize data, focusing on Economics and Literature. Provided **100%** historical coverage since the 1950s, capturing yearly patterns and multi-winner distributions.
 
-**Advanced data wrangling, aggregation, and visualization (`requests`, JSON parsing, comprehensions, `matplotlib`) enabled domain-specific, high-coverage insights for each API.**
 
 **Core Skills:** `API Integration`, `JSON Parsing`, `Data Transformation`, `Visualization`
 
