@@ -1,7 +1,8 @@
 # 📊 Data Analysis Projects with Python
 
 A collection of most critical works from my personal projects and Computation for Data Sciences course for mastering **data cleaning**, **pre-processing**, and **EDA** using Python tools.  
-Click the **blue text hyperlinks** below to view problems and solution code in **Google Colab**.
+
+Click the **blue text hyperlinks** below to view problems and solution code.
 
 ---
 
