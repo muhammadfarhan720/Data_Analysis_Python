@@ -5,7 +5,7 @@ Click the **blue text hyperlinks** below to view problems and solution code in *
 
 ---
 
-## 1️⃣ [Vectorized Data Cleaning Engine](https://colab.research.google.com/drive/1XEe-KLOpyizrUyAQhd0xwOCU1A2-op0-#scrollTo=vZuVntpbrI2w)
+## 1️⃣ [Vectorized Data Cleaning Engine](https://github.com/muhammadfarhan720/OOP_Structure_and_Data_Analysis_Python/blob/main/Vectorized_Data_Cleaning.ipynb)
 
 **Core Skills:** `Pandas`, `Vectorized Operations`, `Regex`, `Data Validation`
 
