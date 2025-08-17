@@ -99,7 +99,7 @@ Each project includes self-contained source code and test cases.
    CSV data loader and statistical analysis toolkit.
 
 4. [**Rational Number Class**](https://github.com/muhammadfarhan720/Data_Analysis_Python/tree/main/OOP_Test_method)  
-   **Skills:** `OOP`, `Classes`, `Method Design`  
+   **Skills:** `OOP`, `Classes`, `Method Design`, `Dunder Methods and Operator Overloading`  
    Object-oriented implementation and unit-method testing of a rational number arithmetic calculator.
 
 ---
