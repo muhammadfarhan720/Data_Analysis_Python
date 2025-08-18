@@ -57,14 +57,14 @@ Click the **blue text hyperlinks** below to view problems and solution code.
 ---
 
 ## 3️⃣ [API Data Processing Stack](https://github.com/muhammadfarhan720/OOP_Structure_and_Data_Analysis_Python/blob/main/API_link_analysis.ipynb)
-
+<!--
 ## Impact Summary
 
 - **Teleport API:** Parsed salary data for **266 global cities** and **52 professions**, identifying the top 20 highest-paying jobs. The analysis covered **100%** of available urban areas and job categories, with dominant roles (e.g., C-Level Executive) making up over **40%** of top salaries.
 - **US Weather API:** Processed **7-day, 12-period forecasts** for temperature, wind speed, and humidity, visualizing day/night trends and quantifying daily extremes. Analysis utilized over **85%** of available forecast periods for actionable climate insights.
 - **PokeAPI:** Aggregated data from **1017 unique Pokémon** across all games, comparing regional dexes (up to **80%** overlap with the National Dex) and revealing how new generations contributed **10–18%** additional unique Pokémon per release.
 - **Nobel Prize API:** Analyzed **70+ years** of Nobel Prize data, focusing on Economics and Literature. Provided **100%** historical coverage since the 1950s, capturing yearly patterns and multi-winner distributions.
-
+-->
 
 **Core Skills:** `API Integration`, `JSON Parsing`, `Data Transformation`, `Visualization`
 
